@@ -1,5 +1,5 @@
 # spideR
-spideR is a subdomain enumeration tool that uses different data sources to derive a complete exhaustive list of subdomains for a given domain. (Made by Fardeen Ahmed in learning phase.)
+spideR is a subdomain enumeration tool that uses different data sources to derive a complete list of subdomains for a given domain. (Made by Fardeen Ahmed in learning phase.)
 
 ## Sources
 Additional subdigger queries following sources to derive a list of subdomains:
