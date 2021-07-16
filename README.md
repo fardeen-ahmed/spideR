@@ -17,9 +17,7 @@ Additional subdigger queries following sources to derive a list of subdomains:
 
 ## Pipelining 
 
-- One can pipe this tool with httpx by 
-
-spideR -d example.com | httpx -title -tech-detect 
+- One can pipe this tool with httpx by -> $ spideR -d example.com | httpx -title -tech-detect 
 
 
 #### Future sources
