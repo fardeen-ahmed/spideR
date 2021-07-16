@@ -12,13 +12,19 @@ Additional subdigger queries following sources to derive a list of subdomains:
 
 ## Install
 
+Before all, very first set aws with Access_Key & Secret_Key by the command :-
+
+$ aws configure
+
+## Then do the following additions :- 
+
 - Directly copy the binary from the `binaries` subdirectory
 - Compile it using the following:
 
-## Pipelining 
+## Pipelining with other tools (right now, htpx is only supported. With new updates, it will add major tools)
 
-- One can pipe this tool with httpx by -> $ spideR -d example.com | httpx -title -tech-detect -follow-redirects (This will give more information about WAF, and redirections.
-
+- One can pipe this tool with httpx by -> $ spideR -d example.com | httpx -title -tech-detect -follow-redirects 
+ (This will give more information about WAF such as Cloudfront, and redirections.
 
 #### Future sources
 
