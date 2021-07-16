@@ -2,7 +2,7 @@
 spideR is a subdomain enumeration tool that uses different data sources to derive a complete list of subdomains for a given domain. (Made by Fardeen Ahmed in learning phase.)
 
 ## Sources
-Additional subdigger queries following sources to derive a list of subdomains:
+Additional spideR queries following sources to derive a list of subdomains:
 
 - Search Engines:
   - Google
@@ -28,7 +28,7 @@ $ aws configure
 
 #### Future sources
 
-Additinoal subdigger is an active project, the following sources will be added in coming releases, working on these new functionalities:
+Additional spideR is an active project, the following sources will be added in coming releases, working on these new functionalities:
 - crt.sh
 - DNS bruteforcer
 - webpage crawling
