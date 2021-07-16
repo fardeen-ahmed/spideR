@@ -21,7 +21,6 @@ Additional subdigger queries following sources to derive a list of subdomains:
 '''
 spideR -d example.com | httpx -title -tech-detect 
 
-'''
 
 #### Future sources
 
