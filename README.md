@@ -17,7 +17,7 @@ Additional subdigger queries following sources to derive a list of subdomains:
 
 ## Pipelining 
 
-- One can pipe this tool with httpx by -> $ spideR -d example.com | httpx -title -tech-detect -follow-redirects
+- One can pipe this tool with httpx by -> $ spideR -d example.com | httpx -title -tech-detect -follow-redirects (This will give more information about WAF, and redirections.
 
 
 #### Future sources
